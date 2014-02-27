@@ -35,6 +35,8 @@ setup(
     maintainer = 'Christopher Glass',
     maintainer_email = 'tribaal@gmail.com',
 
+    include_package_data=True,
+
     packages = find_packages(),
     package_data = {
         'polymorphic': [
