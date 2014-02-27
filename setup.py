@@ -27,7 +27,7 @@ setup(
 
     description = 'Seamless Polymorphic Inheritance for Django Models',
     long_description = read('README.rst'),
-    url = 'https://github.com/chrisglass/django_polymorphic',
+    url = 'https://github.com/sergey-romanov/django_polymorphic',
 
     author = 'Bert Constantin',
     author_email = 'bert.constantin@gmx.de',
