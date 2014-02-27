@@ -3,34 +3,32 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-29 18:12+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2014-02-27 23:10+0400\n"
+"Last-Translator: \n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
 
 #: admin.py:41
 msgid "Type"
-msgstr ""
+msgstr "Type"
 
 #: admin.py:56
 msgid "Content type"
-msgstr ""
+msgstr "Content type"
 
 # This is already translated in Django
-#: admin.py:333
+# msgid "Add %s"
+# msgstr ""
+#: admin.py:333 admin.py:403
 #, python-format
-#msgid "Add %s"
-#msgstr ""
-
-#: admin.py:403
 msgid "Contents"
-msgstr ""
+msgstr "Contents"
